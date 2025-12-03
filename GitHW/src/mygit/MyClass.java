@@ -5,5 +5,6 @@ public class MyClass {
 			System.out.println("Hello Git!");
 			System.out.println("this is 2nd version");
 			System.out.println("this is 3rd version");
+			System.out.println("My change in master branch");
 		}
 }

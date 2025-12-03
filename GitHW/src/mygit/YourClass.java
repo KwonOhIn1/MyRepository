@@ -1,8 +1,9 @@
 package mygit;
 
 public class YourClass {
-	public static void main(String[] args) { 
-		System.out.println("Hello Hello!");
+	public void sayHello(String toWhom) { 
+		System.out.println("Hello Hello!"+toWhom);
+		System.out.println("your change in master branch");
 	}
 
 }
