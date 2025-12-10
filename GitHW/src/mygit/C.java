@@ -2,8 +2,8 @@ package mygit;
 
 public class C {
 
-	public C() {
-		// TODO Auto-generated constructor stub
+	public static void main(String[] args) {
+		System.out.println("앨리스가 C 수정합니다");
 	}
 
 }
